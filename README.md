@@ -1,2 +1,4 @@
 # springBoot-demo
-simple kotlin &amp; spring boot crud rest api example
+simple kotlin & spring boot crud rest api that uses H2 as the db
+
+To run: `./gradlew bootrun`
